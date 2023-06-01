@@ -3,8 +3,8 @@ var  weight ;
 
 
 //console.log("x,y");
-const _= length;
-const $=weight;
+const x= length;
+const y=weight;
 length=12;
 weight=7.5;
 console.log(length,weight);

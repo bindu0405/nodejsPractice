@@ -1,8 +1,8 @@
-let s=4;
+let n=4;
 var str=" ";
 let count=1;
-for(i=0; i<=4; i++){
-    for(j=1; j<s-i+1; j++){
+for(i=0; i<=n; i++){
+    for(j=1; j<n-i; j++){
         str +=count;
         count++;
     }
